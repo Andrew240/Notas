@@ -1,4 +1,4 @@
-## Welcome to Atrapado wn los 90's con mala música Pages
+## Welcome to Atrapado en los 90's con mala música Pages
 
 You can use the [editor on GitHub](https://github.com/Andrew240/Notas/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
